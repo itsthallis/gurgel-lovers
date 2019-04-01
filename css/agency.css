@@ -14,7 +14,7 @@ p {
 }
 
 a {
-  color: #fed136;
+  color: #000;
 }
 
 a:hover {
@@ -586,13 +586,13 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #e9ecef;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 section#contact .section-heading {
-  color: #fff;
+  color: #000;
 }
 
 section#contact .form-group {
@@ -643,8 +643,8 @@ section#contact :-ms-input-placeholder {
 }
 
 footer {
+  background-color: #dee2e6;
   padding: 25px 0;
-  text-align: center;
 }
 
 footer span.copyright {
